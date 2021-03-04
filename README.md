@@ -21,4 +21,7 @@ Since the API PORT in the backend is PORT = 3000 we use a different port
 - on Linux => yarn start:linux
 - on Windows => yarn start:windows
 
+* Make sure to run backend as well
+* docker-compose up
+
 Screenshots availble on google drive
